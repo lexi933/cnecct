@@ -1,6 +1,6 @@
 # cnecct
 
-Hi everyone, I'm Alex, Founder and Lead on Cnecct
+Hi everyone,
 
 We're revolutionizing the way the world does social. Right now you're the product and each platform is trying to do too many things. It's a confusing, predatory space where your content has little value (to you) and you face censorship if you say the wrong thing or an share unpopular viewpoint.
 
