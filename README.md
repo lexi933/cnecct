@@ -10,6 +10,8 @@ Kind of like how the internet was supposed to work in the first place ;)
 <br></br>
 **On Partnerships and the System**
 <br></br>
-User data will be private by default and accounts will mesh with an existing ongoing chain of hash-based proof-of-work. Inquiries on ways you can contribute and partner with us are welcome, send these to: advancetechmedia@protonmail.com
+User data will be private by default and accounts will mesh with an existing ongoing chain of hash-based proof-of-work. 
+
+Inquiries on ways you can contribute and partner with us are welcome, send these to: advancetechmedia@protonmail.com
 
 We won't release anything until ready but when we do the source code will be open.
